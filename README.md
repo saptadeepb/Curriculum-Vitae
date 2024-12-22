@@ -26,7 +26,7 @@ If you have any questions or would like to connect, feel free to reach out to me
 
 - Email: saptadeepmath.sch@nita.ac.in, saptadeepbiswas7@gmail.com
 - Phone: (+91) 8794353313
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/saptadeep-biswas)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/saptadeep-biswas-1531a6126)
 - website: https://sites.google.com/view/saptadeepbiswas
 - Researchgate: https://www.researchgate.net/profile/Saptadeep-Biswas
 - GoogleScholar: https://scholar.google.com/citations?user=qALFk9wAAAAJ&hl=en
