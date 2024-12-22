@@ -2,7 +2,7 @@
 This repository contains my professional resume, which outlines my academic background, research experience, publications, skills, and other relevant information.
 ## About Me
 
-I am a dedicated PhD scholar specializing in Operations Research, Artificial Intelligence, Disaster Risk Reduction, and Humanitarian Logistics. My research interests focus on developing innovative solutions for complex problems in disaster management and optimization.
+I am a dedicated PhD scholar specializing in Operations Research, Optimization Algorithms, Artificial Intelligence, Disaster Risk Reduction, and Humanitarian Logistics. My research interests focus on developing innovative solutions for complex problems in disaster management and optimization.
 
 ## Resume
 
